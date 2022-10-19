@@ -13,6 +13,12 @@ img{
     margin-left: 30px;
     
 }
+.foto{
+    width: 150px;
+    border: 2px solid rgb(94, 255, 0);
+    border-radius: 90px;
+    margin-right: 10px;
+}
 a{
     color: #837E9F;
     text-decoration: none;
@@ -25,7 +31,7 @@ a{
 .side{
     width: 35vw;
     height: 100vh;
-    background-color: whitesmoke;
+    background-color: var(--body-bg-color);
     padding: 5px;
     
     
@@ -56,9 +62,22 @@ a{
 .side-div3{
     width:30vw;
     height: 23vh;
+    text-align: center;
     margin:20px 0px 5px 20px;
     border: 2px solid --bg-cards;
     border-radius: 25px;
     background-color:var(--bg-cards);
+
+}
+ button{
+    background-color: var(--bg-techs);
+    border: 2px solid black;
+    border-radius: 10px;
+    color: var(--text-color);
+    padding: 5px 9px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
 
 }
