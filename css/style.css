@@ -26,7 +26,6 @@ a{
 }
 
 
-
 /* Sside-bar */
 .side{
     width: 35vw;
@@ -80,4 +79,10 @@ a{
     display: inline-block;
     font-size: 16px;
 
+}
+
+.main{
+    background-color: aliceblue;
+    width: 100vw;
+    height: 100vh;
 }
