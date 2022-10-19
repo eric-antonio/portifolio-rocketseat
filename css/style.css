@@ -34,7 +34,7 @@ a{
     text-align: center;
     color: var(--text-color);
     width:30vw;
-    height: 25vh;
+    height: 32vh;
     border: 2px solid --bg-cards;
     border-radius: 25px;
     background-color:var(--bg-cards);
@@ -50,4 +50,14 @@ a{
     border-radius: 25px;
     background-color:var(--bg-cards);
     margin: 20px;
+}
+
+.side-div3{
+    width:30vw;
+    height: 23vh;
+    margin:20px 0px 5px 20px;
+    border: 2px solid --bg-cards;
+    border-radius: 25px;
+    background-color:var(--bg-cards);
+
 }
