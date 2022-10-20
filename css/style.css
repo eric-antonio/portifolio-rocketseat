@@ -65,7 +65,7 @@ a{
     margin:20px 0px 5px 20px;
     border: 2px solid --bg-cards;
     border-radius: 25px;
-   
+    background-color:var(--bg-cards);
 
 }
  button{
